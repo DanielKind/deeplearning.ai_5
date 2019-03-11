@@ -6,3 +6,4 @@ b = [1, 5, 6]
 b.sort()
 print(*b)
 
+print("123")
